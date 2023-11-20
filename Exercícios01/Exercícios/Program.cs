@@ -49,25 +49,26 @@ class Program
             Console.WriteLine(" O número " + num + " é positivo!");
         }
 
-        Console.WriteLine(" ");
+        //Console.WriteLine(" ");
 
         // ------------Exercicio 4-------------------
         Console.WriteLine("4) Ler o salário fixo e o valor das vendas efetuadas pelo vendedor de uma empresa." + "\r\n" + "Sabendo-se que ele recebe uma comissão de 3% sobre o total das vendas" + "\r\n" + "até R$ 1.500,00 mais 5% sobre o que ultrapassar este valor, calcular e escrever o seu salário total." + "\r\n");
-
+/**
         //int vendas;
-        int total
+        int total;
 
         Console.WriteLine("Digite o valor do salário: ");
-        //int salario = Int32.Parse(Console.ReadLine());
-        double salario = Console.ReadLine();
+        int salario = Int32.Parse(Console.ReadLine());
+        //int salario = Console.ReadLine();
 
         Console.WriteLine("Digite o valor das vendas: ");
-        //int vendas = Int32.Parse(Console.ReadLine());
-        double vendas = Console.ReadLine();
+        int vendas = Int32.Parse(Console.ReadLine());
+        //int vendas = Console.ReadLine();
 
-        Console.WriteLine("Seu salário é: " + salario + " e suas vendas foram: " + vendas);
+        total = salario + vendas;
+        Console.WriteLine("Seu salário é: " + salario + " e suas vendas foram: " + vendas + "A soma de tudo é: " + total + ".");
 
-        
+**/        
 
 
         // ------------Exercicio 5-------------------

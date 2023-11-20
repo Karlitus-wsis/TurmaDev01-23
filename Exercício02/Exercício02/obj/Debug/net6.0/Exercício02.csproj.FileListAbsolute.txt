@@ -1,0 +1,4 @@
+C:\Users\Websis\source\repos\TurmaDev01-23\Exercício02\Exercício02\obj\Debug\net6.0\Exercício02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Websis\source\repos\TurmaDev01-23\Exercício02\Exercício02\obj\Debug\net6.0\Exercício02.AssemblyInfoInputs.cache
+C:\Users\Websis\source\repos\TurmaDev01-23\Exercício02\Exercício02\obj\Debug\net6.0\Exercício02.AssemblyInfo.cs
+C:\Users\Websis\source\repos\TurmaDev01-23\Exercício02\Exercício02\obj\Debug\net6.0\Exercício02.csproj.CoreCompileInputs.cache
